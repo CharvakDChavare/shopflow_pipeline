@@ -1,0 +1,51 @@
+product_id,product_name,category,base_price
+1,Face Serum #1,Beauty,13.34
+2,Air fyer #2,Home and Kichen,71.61
+3,Face Serum #3,Beauty,204.94
+4,Python cookbook #4,Book,179.59
+5,wirelees earbuds #5,Electornic,33.54
+6,Denum Jacket #6,Clothing,182.98
+7,Python cookbook #7,Book,216.5
+8,Lip Balm #8,Beauty,129.33
+9,Resistance Bands #9,Sports,87.78
+10,LEGO Set #10,Toys,229.08
+11,Denum Jacket #11,Clothing,130.24
+12,Air fyer #12,Home and Kichen,69.29
+13,Board Game #13,Toys,36.04
+14,Yoga Mat #14,Sports,111.53
+15,Blender #15,Home and Kichen,83.76
+16,phone stad #16,Electornic,141.06
+17,usb-c hub #17,Electornic,29.16
+18,Blender #18,Home and Kichen,187.83
+19,Board Game #19,Toys,175.73
+20,Face Serum #20,Beauty,19.46
+21,Hoodie #21,Clothing,295.65
+22,LEGO Set #22,Toys,260.74
+23,Water Bottle #23,Sports,139.29
+24,Board Game #24,Toys,53.81
+25,Air fyer #25,Home and Kichen,203.02
+26,Lip Balm #26,Beauty,196.51
+27,Python cookbook #27,Book,163.03
+28,Running shoes #28,Clothing,141.89
+29,Blender #29,Home and Kichen,208.31
+30,Denum Jacket #30,Clothing,101.33
+31,LEGO Set #31,Toys,73.33
+32,usb-c hub #32,Electornic,123.93
+33,wirelees earbuds #33,Electornic,274.45
+34,Data Engineering Book  #34,Book,68.5
+35,Water Bottle #35,Sports,266.09
+36,Sunscreen SPF50 #36,Beauty,47.99
+37,Running shoes #37,Clothing,225.02
+38,Data Engineering Book  #38,Book,225.61
+39,Resistance Bands #39,Sports,123.41
+40,Running shoes #40,Clothing,155.79
+41,wirelees earbuds #41,Electornic,259.15
+42,Denum Jacket #42,Clothing,53.02
+43,Sunscreen SPF50 #43,Beauty,181.33
+44,Water Bottle #44,Sports,181.18
+45,Resistance Bands #45,Sports,79.91
+46,Python cookbook #46,Book,205.99
+47,phone stad #47,Electornic,266.12
+48,Board Game #48,Toys,231.96
+49,Air fyer #49,Home and Kichen,92.28
+50,Hoodie #50,Clothing,6.94
